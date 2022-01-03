@@ -23,4 +23,8 @@
 ## Tecnologia e educação mudam histórias...
 
 ### Análise e Desenvolvimento de Sistemas 💻📚
-### 📨 msrocha.ad@gmail.com ou 📱 (61) 982943780 / (61) 996949911
+
+### 📱 (61) 982943780 / (61) 996949911
+
+### 📨 msrocha.ad@gmail.com
+
