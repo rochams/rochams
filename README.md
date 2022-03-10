@@ -21,7 +21,7 @@
 
 ----
 
-### Contatos
+### Contatos:
 * #### 📱 (61) 982943780 / (61) 996949911
 
 * #### 📨 msrocha.ad@gmail.com
