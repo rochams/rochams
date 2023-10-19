@@ -7,7 +7,8 @@
 <img alingn="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img alingn="center" alt="SQLServer" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-
+##### Constante busca por aprimoramento pessoal e profissional.
+##### Devops lifestyle e Fullstack passion :D
 
 
   
