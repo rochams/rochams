@@ -1,14 +1,17 @@
 #### Olá! Seja bem-vindo!
 
+##### Constante busca por aprimoramento pessoal e profissional.
+##### Motivação por Devops, Fullstack e machine learning :D
+
 #### Tecnologias mais usadas por mim:
-<br><div style="display: inline_block">
-&emsp;&emsp;<img alingn="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+&emsp;&emsp;<img alingn="center" alt="Python" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img alingn="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img alingn="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img alingn="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img alingn="center" alt="SQLServer" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-##### Constante busca por aprimoramento pessoal e profissional.
-##### Devops lifestyle e Fullstack passion :D
+
+
 
 
   
