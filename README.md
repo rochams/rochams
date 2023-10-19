@@ -1,6 +1,6 @@
 #### Olá! Seja bem-vindo!
 
-##### ! Motivação por Devops, Fullstack e machine learning :D
+##### Motivação por Devops, Fullstack e machine learning :D
 
 #### >>> Tecnologias mais usadas por mim:
 ##### Em produção:
