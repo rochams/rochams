@@ -1,5 +1,6 @@
 #### Seja bem-vindo!
 ##### Motivação Fullstack / Keep motivated and motivating.
+##### Projetos profissionais no GitLab.
 
 #### > Tecnologias mais usadas por mim:
 ##### Rotineiras:
